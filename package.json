@@ -1,0 +1,21 @@
+{
+  "name": "SchoolBuddy",
+  "version": "1.0.0",
+  "description": "Angular Routing In-Depth Demo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brice Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "angular-route": "^1.4.0",
+    "angular-ui-router": "^0.2.15",
+    "body-parser": "^1.18.3",
+    "debug": "^2.1.3",
+    "express": "^4.16.4",
+    "jade": "^1.9.2",
+    "morgan": "^1.9.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
